@@ -1,5 +1,5 @@
 {
-	"name": "deepsignals",
+	"name": "@nichoth/deepsignal",
 	"private": true,
 	"scripts": {
 		"prebuild": "rimraf packages/deepsignal/dist/ && rimraf packages/deepsignal/core/dist && rimraf packages/deepsignal/react/dist",

@@ -72,13 +72,13 @@ The most important feature is that **it just works**. You don't need to do anyth
 ### With Preact
 
 ```sh
-npm install deepsignal @preact/signals
+npm i -S @nichoth/deepsignal @preact/signals
 ```
 
-If you are using `deepsignal` with Preact (`@preact/signals`), you should use the `deepsignal` import. You also need to install `@preact/signals`.
+If you are using `deepsignal` with Preact (`@preact/signals`), you should use the `@nichoth/deepsignal` import. You also need to install `@preact/signals`.
 
 ```js
-import { deepSignal } from "deepsignal";
+import { deepSignal } from "@nichoth/deepsignal";
 
 const state = deepSignal({
 	count: 0,
