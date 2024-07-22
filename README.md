@@ -7,6 +7,9 @@ Use [Preact signals](https://github.com/preactjs/signals) with the interface of 
 - Nested objects and arrays are also converted to deep signal objects/arrays, allowing you to create **fully reactive data structures**.
 - The `$` prefix returns the signal instance: `state.$prop`.
 
+## fork
+This is a fork of [luisherranz/deepsignal](https://github.com/luisherranz/deepsignal).
+
 ---
 
 - Try it on Stackblitz
