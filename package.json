@@ -44,7 +44,7 @@
 		"chai": "^4.3.6",
 		"cross-env": "^7.0.3",
 		"errorstacks": "^2.4.0",
-		"esbuild": "^0.14.54",
+		"esbuild": "^0.25.0",
 		"eslint": "^8.21.0",
 		"eslint-config-prettier": "^8.5.0",
 		"husky": "^8.0.1",
